@@ -2,7 +2,7 @@ xclass Student{
 String name;
 int age;
 
-Student(String name, int age){
+Student(String num, int age){
     this.name = name;
     this.age = age;
     System.out.println(this.name);
