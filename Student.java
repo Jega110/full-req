@@ -13,7 +13,7 @@ Student(Student student){
     System.out.println(this.name);
 }
 public static void main (String args[]){
-    Student student1 = new Student("arshad",20);
+    Student student1 = new Student("shiva",20);
     Student student2 = new Student(student1);
 }
 }
